@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-debug = true;
+debug = false;
 
 
 global.mouse_Xstart = 0;
@@ -20,7 +20,7 @@ global.mouseHeldTime = 0;
 
 global.tap = false;
 
-tapCheck = false;
+
 
 mouse_Xstart_margin = 0;
 mouse_Ystart_margin = 0;

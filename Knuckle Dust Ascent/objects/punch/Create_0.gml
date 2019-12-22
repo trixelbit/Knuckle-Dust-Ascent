@@ -13,3 +13,5 @@ shoulder_y = -4;
 
 X = 0;
 Y = 0;
+
+arm_length = 100;

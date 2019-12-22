@@ -26,14 +26,13 @@ switch(state)
 	case "jab":
 		image_alpha = 1;
 		
-		player.hspeed = hspeed/3;
-		
 		recovery = true;
+		player.hspeed = hspeed / 3;
 		
 		///rotates arm
 		dir =  point_direction(X, Y,global.mouse_Xlast,global.mouse_Ylast);
 		dis = point_distance(X, Y, global.mouse_Xlast, global.mouse_Ylast);
-		radius = dis < 300 ? dis : 300;
+		radius = dis < arm_length ? dis : arm_length;
 		x = X + lengthdir_x(radius, dir);
 		y = Y + lengthdir_y(radius, dir);
 		break;
@@ -46,4 +45,10 @@ switch(state)
 		x = lerp(x, X, .25);
 		y = lerp(y, Y, .25);
 		break;
+}
+
+
+if (recovery)
+{
+	player.hspeed = hspeed / 3;
 }

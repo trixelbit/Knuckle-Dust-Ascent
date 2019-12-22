@@ -3,17 +3,15 @@
 
 
 global.mouseHeld = mouse_check_button(mb_left);
-
-
-
-tapCheck = false;
 global.tap = false;
 
 
-if(mouse_check_button_pressed(mb_left) and !tapCheck)
+if(mouse_check_button_pressed(mb_left))
 {
-		tapCheck = true;
-		alarm[0] = 8;
+		global.mouse_Xstart = mouse_x;
+		global.mouse_Ystart = mouse_y;	
+		mouse_Xstart_margin = mouse_x - camera_get_view_x(view_camera[0]);
+		mouse_Ystart_margin = mouse_y - camera_get_view_y(view_camera[0]);
 }
 
 if(mouse_check_button_released(mb_left))
@@ -26,17 +24,8 @@ if(mouse_check_button_released(mb_left))
 
 
 
-if(mouse_check_button_pressed(mb_left))
-{
-	global.mouse_Xstart = mouse_x;
-	global.mouse_Ystart = mouse_y;
-	mouse_Xstart_margin = mouse_x - camera_get_view_x(camera_get_active());
-	mouse_Ystart_margin = mouse_y - camera_get_view_y(camera_get_active());
-}
-
-
 if(global.mouseHeld)
-{
+{	
 	global.mouseHeldTime++;
 	
 	global.mouse_Xlast = mouse_x;
@@ -48,13 +37,12 @@ if(global.mouseHeld)
 	global.mouse_Xspeed = global.mouse_deltaX / global.mouseHeldTime;
 	global.mouse_Yspeed = global.mouse_deltaY / global.mouseHeldTime;
 	
-	//set mouse_start relative to the screen
-	global.mouse_Xstart = mouse_Xstart_margin + camera_get_view_x(camera_get_active());
-	global.mouse_Ystart = mouse_Ystart_margin + camera_get_view_y(camera_get_active());
+	
 }
 else
 {
 	global.mouseHeldTime = 0;
 }
 
-
+global.mouse_Xstart = mouse_Xstart_margin + camera_get_view_x(view_camera[0]);
+global.mouse_Ystart = mouse_Ystart_margin + camera_get_view_y(view_camera[0]);

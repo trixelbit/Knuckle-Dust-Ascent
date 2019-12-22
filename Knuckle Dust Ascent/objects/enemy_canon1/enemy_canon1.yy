@@ -1,33 +1,23 @@
 {
-    "id": "0962b297-bf9d-4280-9191-7d34d82257e6",
+    "id": "4e335a70-7b6d-4331-b518-95a27b76a70c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "camera",
+    "name": "enemy_canon1",
     "eventList": [
         {
-            "id": "075de13f-7090-4ec9-8b54-408f06426b9d",
+            "id": "8d0319b7-9b97-4d63-9dcd-e956eaacaa21",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0962b297-bf9d-4280-9191-7d34d82257e6"
-        },
-        {
-            "id": "078a31d7-738e-49a3-a844-d10b3a30c36b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 7,
-            "m_owner": "0962b297-bf9d-4280-9191-7d34d82257e6"
+            "m_owner": "4e335a70-7b6d-4331-b518-95a27b76a70c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "57e3af69-fd73-4655-b47d-22887fb4a2a7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

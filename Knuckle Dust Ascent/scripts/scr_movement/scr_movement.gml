@@ -1,4 +1,11 @@
-/// @scr_movement(run_speed, run_thresh, run_multiplier, gravity, jump_max, jump_thresh, jump_multiplier)
+/// @description scr_movement(
+/// @param run_speed  
+/// @param run_thresh 
+/// @param run_multiplier
+/// @param gravity
+/// @param jump_max
+/// @param jump_thresh
+/// @param jump_multiplier
 
 
 RUN_MAX = argument0;
@@ -53,10 +60,10 @@ if(global.mouseHeld)
 {
 	// Max Speed = 5
 	//
-	if(abs(global.mouse_deltaX) > RUN_THRESH)
+	if(abs(global.mouse_deltaX) > RUN_THRESH and punch.recovery != true)
 	{
 		hspeed = RUN_MULTIPLIER * (global.mouse_deltaX/RUN_THRESH);
-		hspeed = abs(hspeed) > RUN_MAX ? RUN_MAX * face : hspeed;
+		hspeed = abs(hspeed) > RUN_MAX ? RUN_MAX * (global.mouse_deltaX / abs(global.mouse_deltaX)) : hspeed;
 	}
 	
 	if(!place_free(x + hspeed,y))
@@ -64,7 +71,7 @@ if(global.mouseHeld)
 		hspeed = 0;
 	}
 }
-// deccelerate object until it is stoped
+// deccelerate object until it is stopped
 else if (hspeed != 0 and abs(hspeed) > .5)
 {
 	hspeed = lerp(hspeed, 0, .1);
