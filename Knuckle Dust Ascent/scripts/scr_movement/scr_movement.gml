@@ -65,11 +65,6 @@ if(global.mouseHeld)
 		hspeed = RUN_MULTIPLIER * (global.mouse_deltaX/RUN_THRESH);
 		hspeed = abs(hspeed) > RUN_MAX ? RUN_MAX * (global.mouse_deltaX / abs(global.mouse_deltaX)) : hspeed;
 	}
-	
-	if(!place_free(x + hspeed,y))
-	{
-		hspeed = 0;
-	}
 }
 // deccelerate object until it is stopped
 else if (hspeed != 0 and abs(hspeed) > .5)
@@ -82,7 +77,10 @@ else if (abs(hspeed) < .5)
 	hspeed = 0;
 }
 
-
+if(!place_free(x + hspeed * 2, y))
+{
+	hspeed = 0;
+}
 
 
 
