@@ -42,6 +42,8 @@ if(global.mouseHeld)
 else
 {
 	global.mouseHeldTime = 0;
+	global.mouse_Xlast = lerp(global.mouse_Xlast, global.mouse_Xstart, .1);
+	global.mouse_Ylast = lerp(global.mouse_Ylast, global.mouse_Ystart, .1);
 }
 
 global.mouse_Xstart = mouse_Xstart_margin + camera_get_view_x(view_camera[0]);

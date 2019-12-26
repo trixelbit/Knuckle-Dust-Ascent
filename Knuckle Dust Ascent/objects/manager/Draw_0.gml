@@ -1,9 +1,9 @@
 /// @description Insert description here
+
+#region debugging draw events
 // You can write your code in this editor
 if(debug)
 {
-
-
 	//mouse_xstart
 	draw_set_color(c_yellow);
 	draw_circle(global.mouse_Xstart, global.mouse_Ystart, 5, false);
@@ -16,7 +16,6 @@ if(debug)
 		(mouse_Ystart_margin + camera_get_view_y(camera_get_active())), 
 		10, false);
 
-
 	//mouse_tap
 	if(global.tap)
 	{
@@ -26,9 +25,7 @@ if(debug)
 
 	//mouse_xlast
 	draw_set_color(c_red); 
-	draw_circle(global.mouse_Xlast,global.mouse_Ylast, 5, false);
-
-
+	draw_circle(global.mouse_Xlast,global.mouse_Ylast, 10, false);
 
 	//mouse_speed
 	draw_set_color(c_white);
@@ -49,15 +46,27 @@ if(debug)
 			"Delta Mouse : (" + string(global.mouse_deltaX) + ", " + string(global.mouse_deltaY) + ")");
 
 }
+#endregion
 
-	draw_set_color(c_black);
-	draw_circle(
-		(mouse_Xstart_margin + camera_get_view_x(camera_get_active())), 
-		(mouse_Ystart_margin + camera_get_view_y(camera_get_active())), 
-		10, false);
+#region draw joystick
+// draw black base
+draw_set_color(c_black);
+draw_circle(
+	(global.mouse_Xstart), 
+	(global.mouse_Ystart), 
+	18, false);
 
+dir = point_direction(global.mouse_Xstart, global.mouse_Ystart, global.mouse_Xlast, global.mouse_Ylast);
+dis = point_distance(global.mouse_Xstart, global.mouse_Ystart, global.mouse_Xlast, global.mouse_Ylast);
+dis = dis < stick_length ? dis : stick_length;
+stickx = lengthdir_x(dis,dir);
+sticky = lengthdir_y(dis,dir);
 
+//stick
+draw_line_width(global.mouse_Xstart, global.mouse_Ystart, global.mouse_Xstart + stickx, global.mouse_Ystart + sticky, 10);
 
-	//mouse_xlast
-	draw_set_color(c_red); 
-	draw_circle(global.mouse_Xlast,global.mouse_Ylast, 5, false);
+//joystick head
+draw_set_color(c_red); 
+draw_circle(global.mouse_Xstart + stickx, global.mouse_Ystart + sticky, 16, false);
+
+#endregion

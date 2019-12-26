@@ -24,3 +24,8 @@ global.tap = false;
 
 mouse_Xstart_margin = 0;
 mouse_Ystart_margin = 0;
+stick_length = 25;
+
+dir = 0;
+stickx = lengthdir_x(100,dir);
+sticky = lengthdir_y(100,dir);
