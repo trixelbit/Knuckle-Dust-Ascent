@@ -31,11 +31,275 @@
     },
     "resources": [
         {
+            "Key": "00824123-c428-40d8-ad17-a63947de296f",
+            "Value": {
+                "id": "1701eaaf-c752-4864-9cef-811b9cd5475d",
+                "resourcePath": "datafiles_yy\\Orginals\\jam4.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "009dfe44-de53-42cb-a0e1-11c28a941572",
+            "Value": {
+                "id": "15577f08-0bdb-4851-b81c-b4be740b9d13",
+                "resourcePath": "sprites\\spr_snow_car_blue\\spr_snow_car_blue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0156f691-7747-4c10-81e1-42a724447636",
+            "Value": {
+                "id": "6e15b046-5c94-40cd-9a4f-77d72d6cda09",
+                "resourcePath": "views\\0156f691-7747-4c10-81e1-42a724447636.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "01d0a966-8700-4804-9799-0e938e817478",
+            "Value": {
+                "id": "06de3a18-076b-430a-87bc-5b02fd2e5da5",
+                "resourcePath": "views\\01d0a966-8700-4804-9799-0e938e817478.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "050aac36-85d0-4814-b5dd-0fae7ff9cf20",
+            "Value": {
+                "id": "afd243bc-0aa2-442e-902f-d1a656cf485f",
+                "resourcePath": "datafiles_yy\\Orginals\\twinle jam\\v1.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "063dd758-8afb-4927-8841-f8d6e5d7d25b",
+            "Value": {
+                "id": "2475037d-2e19-4baa-b22c-a6d54be0b22f",
+                "resourcePath": "views\\063dd758-8afb-4927-8841-f8d6e5d7d25b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "06879e7c-1b84-4959-9164-b487b5201bd0",
+            "Value": {
+                "id": "abe953c5-8d0b-4449-a301-07665dbacd14",
+                "resourcePath": "views\\06879e7c-1b84-4959-9164-b487b5201bd0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "069a149b-f9f8-431f-a173-36d87c42079d",
+            "Value": {
+                "id": "cc539919-8546-46f8-8ce8-e2aad5628359",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000193.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "071db985-cae3-4205-8da9-0acd1639b9cd",
+            "Value": {
+                "id": "cdd23abf-6bde-4106-87de-2f93b88c6881",
+                "resourcePath": "objects\\resume\\resume.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "07751355-dc04-4753-8269-c0d6a0c56114",
+            "Value": {
+                "id": "329f9e78-b5a4-4e7e-9240-5b2ed4d27eca",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\chops.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "07a23c89-be76-4ec7-8464-7247c883c5ae",
+            "Value": {
+                "id": "d6ef13c6-791f-45c7-a680-a279f638d3ee",
+                "resourcePath": "sprites\\shop_light\\shop_light.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "07b8ffd4-b929-44cf-9905-8a1ddf14452f",
+            "Value": {
+                "id": "2ecb239e-d827-4dc9-a785-bba553d76108",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\ew lool.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "089e3074-0ddc-4bd3-9abb-221432b2e504",
+            "Value": {
+                "id": "1a1f456e-4121-4c13-9457-58cce235ea99",
+                "resourcePath": "views\\089e3074-0ddc-4bd3-9abb-221432b2e504.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0962b297-bf9d-4280-9191-7d34d82257e6",
             "Value": {
                 "id": "25eb0819-5275-4f9c-9335-f4263a458bc1",
                 "resourcePath": "objects\\camera\\camera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0991f1a3-a842-4af8-a43a-1fb6a521a291",
+            "Value": {
+                "id": "a9e3c303-2311-43ae-a17b-49ce206ef706",
+                "resourcePath": "rooms\\abstract_room\\abstract_room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "09c24279-94f0-4fd1-947c-c26f04d8cb65",
+            "Value": {
+                "id": "d2305dfb-6cf3-4d26-826d-5f7b46c31e11",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000d71.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0a812420-049b-4f11-a5e2-8a86e35562c6",
+            "Value": {
+                "id": "642ccb3f-1e80-4e16-ba5e-10564d76ba5b",
+                "resourcePath": "sprites\\Street_tile1\\Street_tile1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0b0ab2f6-3298-4c72-b992-91f886b4a557",
+            "Value": {
+                "id": "a6996099-7def-4c11-afa4-ecd8b1184bcb",
+                "resourcePath": "sounds\\m_death\\m_death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "0bbbc10c-947e-489d-9467-7ecca97d099d",
+            "Value": {
+                "id": "cc1ebaa0-1c15-4d73-b082-f5d635e50893",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\ideas 2.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0c749dee-d6ee-4012-87ed-781300e8ad86",
+            "Value": {
+                "id": "086ea2a7-def0-4625-b7ce-534df97752e0",
+                "resourcePath": "datafiles_yy\\Orginals\\electro bump\\bump beep.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0cd0ca4f-dea8-4b37-a76c-eaada8fe140d",
+            "Value": {
+                "id": "7f1d6948-2f4f-4587-ae58-d2c94f2add34",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\C.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0cdca452-5963-490e-acda-cf40a287cbab",
+            "Value": {
+                "id": "2eb441c5-de26-45bc-b107-b98e33b8f913",
+                "resourcePath": "sprites\\spr_hand\\spr_hand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0e07591d-3451-4c7f-9160-f5acda2bc534",
+            "Value": {
+                "id": "25e77908-90de-4dce-902d-a1c108b666fd",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\vocals.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0e3eb588-b65f-41eb-8073-a0e2bb3aa687",
+            "Value": {
+                "id": "c0ac13ba-1fb6-4dd5-a7ed-efeb8fcc4808",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000851.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0ef436e2-d7e1-4ee4-9553-b30c92125bee",
+            "Value": {
+                "id": "bc8f41ef-b036-4989-b44d-e1b685637f2f",
+                "resourcePath": "sprites\\spr_ui_level\\spr_ui_level.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0f707525-cfd6-487e-abfa-3ac1b24e2962",
+            "Value": {
+                "id": "1beedf2f-4bdb-4601-9610-f6d4a1f628f2",
+                "resourcePath": "sprites\\spr_playerspawn\\spr_playerspawn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "11509a41-1ece-461e-bee8-e3dea7fabd75",
+            "Value": {
+                "id": "ecb7f2cb-b751-4cbf-aaf4-5cff2c2e7760",
+                "resourcePath": "sprites\\spr_heartlife\\spr_heartlife.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "12d35979-96ba-4d69-8abc-b5b8fbcdf074",
+            "Value": {
+                "id": "611b8405-2653-4c33-968f-999e696503a5",
+                "resourcePath": "views\\12d35979-96ba-4d69-8abc-b5b8fbcdf074.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "134feb4b-f9e3-4399-a2fe-f0f3482c5648",
+            "Value": {
+                "id": "b85a446f-9c12-43a4-9cfc-1011db393078",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000923.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "14b44e17-f7f1-432b-bd33-ef16f496e685",
+            "Value": {
+                "id": "0c75db23-1e0f-42a3-8bd0-90e9436073c3",
+                "resourcePath": "objects\\ui_pause\\ui_pause.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "14d1dbf2-3caf-4d61-81be-a1c6fe1fc00e",
+            "Value": {
+                "id": "ae42a30f-6228-4812-b77f-78d9f817a516",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000c79.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "157661f4-dd34-45b0-bc84-7c5a93aac23e",
+            "Value": {
+                "id": "8c1e4bbd-da8b-4177-9543-0fd55b43bea8",
+                "resourcePath": "scripts\\scr_decelerate\\scr_decelerate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "15e1e0e5-8a65-4c9e-b3af-7b242cd1b6cc",
+            "Value": {
+                "id": "3238a662-c1d8-42b8-83af-48fac9732d73",
+                "resourcePath": "views\\15e1e0e5-8a65-4c9e-b3af-7b242cd1b6cc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "15f68acb-ca8c-401d-ad9e-6eb4e82e471a",
+            "Value": {
+                "id": "c200c8dc-137f-441c-9334-5a3b43056645",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\Crystal Mines mixed 2.mp3.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -47,11 +311,107 @@
             }
         },
         {
+            "Key": "17fc062e-5a9c-460d-a2f6-bde67590ed34",
+            "Value": {
+                "id": "1431d485-7f40-4bbe-a544-a3a1011adf30",
+                "resourcePath": "datafiles_yy\\Orginals\\jam 2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "190dc6d9-62d8-4b66-82eb-d30426dc3a77",
+            "Value": {
+                "id": "95095cae-83b3-453e-8d79-708f9df39b23",
+                "resourcePath": "views\\190dc6d9-62d8-4b66-82eb-d30426dc3a77.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "190ee7b3-dd92-478a-af70-76abec5299a2",
+            "Value": {
+                "id": "29d4240c-4a3a-47b9-ae0d-b54e31be4b4d",
+                "resourcePath": "views\\190ee7b3-dd92-478a-af70-76abec5299a2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1a00b6a5-ac3f-425b-ac66-b6783a503d95",
+            "Value": {
+                "id": "761823a3-5e99-4353-a75e-73f0d43d6465",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\guitar.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1db4827d-dabc-4d19-ae90-8ae1034cd039",
+            "Value": {
+                "id": "6ad39180-0265-4f5c-ac5f-9d8d1012e327",
+                "resourcePath": "sprites\\spr_bullet1\\spr_bullet1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1ddeaa7c-4109-4d88-a45f-4b5898a8a6be",
+            "Value": {
+                "id": "f86019b5-a804-436c-ae91-dba1d39c0f37",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000a9b.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "1e5e80c9-7481-40c1-abba-414b57643c88",
             "Value": {
                 "id": "4a3b5dd7-70e4-42af-9370-463b30f54a6f",
                 "resourcePath": "views\\1e5e80c9-7481-40c1-abba-414b57643c88.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1f98bffc-b5b2-4b3d-bf74-495e9cf9a198",
+            "Value": {
+                "id": "078e11e6-db18-4c4a-a6b1-9e394b97ffdd",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000d7f.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "204a4390-55a8-41ef-b200-1ccb95c9885d",
+            "Value": {
+                "id": "62c77179-454a-4bd7-9852-d6609d0b4883",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\Piano Fun Chop beta mastger mix.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "21e7635f-22b1-40d0-ad00-d420bf96cde3",
+            "Value": {
+                "id": "3125fbb0-8bd3-4be9-88f5-44369b3e7c8e",
+                "resourcePath": "views\\21e7635f-22b1-40d0-ad00-d420bf96cde3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "22cbeee4-01b7-420b-b889-3b6bad278d00",
+            "Value": {
+                "id": "36ca5646-6898-44d9-a026-fc66d9498ba3",
+                "resourcePath": "datafiles_yy\\Orginals\\jam 222 loop.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "23521e5a-aa36-4431-9f44-0c1b8693f026",
+            "Value": {
+                "id": "15b814fe-e0be-4f18-a7b1-6bd5e393a01d",
+                "resourcePath": "datafiles_yy\\Orginals\\jam2 loop.ogg.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "24132103-9736-433d-ac2a-90f3557196f7",
+            "Value": {
+                "id": "a5915198-0168-4c48-b267-a63e98c5ef86",
+                "resourcePath": "sounds\\m_theme\\m_theme.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -71,11 +431,219 @@
             }
         },
         {
+            "Key": "273b5301-a74d-4fbc-a067-0f92f532012a",
+            "Value": {
+                "id": "02037aea-00f8-42e1-9811-2877f08dfdaf",
+                "resourcePath": "sounds\\s_footstep1_1\\s_footstep1_1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "27c06ac6-8e0e-4291-aa36-6988ece9f94b",
+            "Value": {
+                "id": "9508f8f1-4735-4197-a721-ab2fa7042931",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\limnetic 3 - 4 demo 3.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "285c5805-763a-4e3a-9d80-c5de2c16cee5",
+            "Value": {
+                "id": "33425819-53b7-4d9e-8e1f-73bb35eecefa",
+                "resourcePath": "tilesets\\ts_wall\\ts_wall.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "29ab48a7-4942-4098-91ec-6de97c2a694c",
+            "Value": {
+                "id": "a62c58c5-6e55-48d6-a1d4-b9dc78535ae7",
+                "resourcePath": "datafiles_yy\\Orginals\\short lil jam\\e major 7b jam.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2a89ef43-6461-4b4d-b0bf-e8dd60cb8eca",
+            "Value": {
+                "id": "9582a656-27d1-419f-a9b5-1bd904e32f62",
+                "resourcePath": "sprites\\spr_gold_plus_1\\spr_gold_plus_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2c253a31-ac78-4655-91e4-dfdf7cc074bb",
+            "Value": {
+                "id": "be47b9cc-2482-47a7-80a1-88b5c422d4f0",
+                "resourcePath": "objects\\e_fade\\e_fade.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2cea3ce1-fdc6-44d6-b67b-b6d685e94340",
+            "Value": {
+                "id": "6003a12b-3540-4bda-b89a-cc745c619608",
+                "resourcePath": "datafiles_yy\\Orginals\\electro bump\\latin-theme-demo-2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "2d2e6a52-2085-49c4-8aab-cc4f62634d0b",
             "Value": {
                 "id": "210e3eb6-9716-4bb4-ada8-dd46e525978f",
-                "resourcePath": "sprites\\spr_boxer1_trotjab\\spr_boxer1_trotjab.yy",
+                "resourcePath": "sprites\\spr_boxer1_trotjabl\\spr_boxer1_trotjabl.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d3a418a-543d-42c9-a034-7683fd7844af",
+            "Value": {
+                "id": "c76e4546-3503-4157-bde2-b96dcfc3be96",
+                "resourcePath": "views\\2d3a418a-543d-42c9-a034-7683fd7844af.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2d9562c3-8029-4717-9ab3-165e644744b7",
+            "Value": {
+                "id": "13810e5b-4770-48fb-a0cd-da397f22f11d",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\korg idea.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2e599d22-e8e6-4e51-b2b4-0ffcc388313a",
+            "Value": {
+                "id": "e3e2b852-0d85-45a2-b145-2c3eb9465d14",
+                "resourcePath": "views\\2e599d22-e8e6-4e51-b2b4-0ffcc388313a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2e8f4d83-1681-4a8d-8ada-ce1abe95e9aa",
+            "Value": {
+                "id": "8396c696-1eb3-4722-8614-1f8188d319e8",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\limnetic 3 - 4 demo 3.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2ed2666e-7df2-406c-9033-dcb5cced14e9",
+            "Value": {
+                "id": "7bddf0a2-189c-429d-b55c-27edf44bba8d",
+                "resourcePath": "views\\2ed2666e-7df2-406c-9033-dcb5cced14e9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2fa2b933-1d41-4099-868f-66d765f2439d",
+            "Value": {
+                "id": "59a49f7c-c4e6-44b1-8c30-059d1f2b8a2d",
+                "resourcePath": "views\\2fa2b933-1d41-4099-868f-66d765f2439d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "313c024e-034d-4ba4-aaec-1708b8918026",
+            "Value": {
+                "id": "59f24729-549b-4d73-b043-abf4d6e3c440",
+                "resourcePath": "datafiles_yy\\Orginals\\late night expirement.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "319e78f2-190d-4f2b-9111-c82d9d1b89a4",
+            "Value": {
+                "id": "c6c3fcee-5c1e-4b0e-a4c0-6c30fa78bf46",
+                "resourcePath": "views\\319e78f2-190d-4f2b-9111-c82d9d1b89a4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "31adea80-334b-4a41-8ff9-2bd830d86797",
+            "Value": {
+                "id": "202e594e-1525-48c9-af79-defbd839d255",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\karlee note to self.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "31b7e851-1ccc-4f18-98a0-501cf002eff4",
+            "Value": {
+                "id": "b6a011f8-fcf1-4157-b0cc-d245c9360aaf",
+                "resourcePath": "sprites\\snow_street2\\snow_street2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3282cc0c-0040-4c33-ab49-eea1e7b0fb77",
+            "Value": {
+                "id": "63a91369-4590-4181-bfa8-6e4c24ebfbdb",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\master.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "32e049ec-4ea3-4215-a83c-8775d2b7cde8",
+            "Value": {
+                "id": "ac7e4a31-e5ba-4789-a2d4-f5f701adb88c",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e000060b.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "33cfb3aa-726b-4d97-9c84-8b77377a13a3",
+            "Value": {
+                "id": "1f307297-e536-46d9-a837-da99ab741c9f",
+                "resourcePath": "sounds\\s_windgust1\\s_windgust1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "34463028-6093-4909-861d-b1b0343c975a",
+            "Value": {
+                "id": "59169c99-8034-4115-9ccb-f0f4499cd465",
+                "resourcePath": "scripts\\scr_shoot\\scr_shoot.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "356d2add-3a1e-490c-9329-72a06f0b9c85",
+            "Value": {
+                "id": "a0bd79cd-47ed-41ab-84bc-0677e1e89dbc",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000df9.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "358f99de-4f73-422f-8a17-1f494073f398",
+            "Value": {
+                "id": "19002afe-c9ad-4baa-a52e-bb72e82521f9",
+                "resourcePath": "views\\358f99de-4f73-422f-8a17-1f494073f398.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "360c4895-abbe-4eeb-9f79-2dfff49cb769",
+            "Value": {
+                "id": "44bde1a7-ef42-470f-8943-c1733dcc97b9",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00009a0.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "36159ff3-5236-47fd-a09b-acdb8f570ad7",
+            "Value": {
+                "id": "144ca8a6-8b3c-4c0e-be05-cd8b63e7ba15",
+                "resourcePath": "sounds\\s_punch_air2\\s_punch_air2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "372800d2-9b3a-455f-a20d-8d018777b2d4",
+            "Value": {
+                "id": "38ee2871-cad5-4b33-897e-33c68ceeb98a",
+                "resourcePath": "objects\\lock_door\\lock_door.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -83,6 +651,30 @@
             "Value": {
                 "id": "fccad85c-6215-4f8a-8d22-f49957d15192",
                 "resourcePath": "sprites\\spr_hit\\spr_hit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "37f06783-4017-4bdd-b3c2-cdc21dc5dbd4",
+            "Value": {
+                "id": "eb6cdafe-4f72-44f3-b90c-c6e2f637a742",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\test poly.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "39019a11-52d9-4fb4-ad97-ddff2df1b213",
+            "Value": {
+                "id": "2d03be63-4d36-4ba8-b3e7-deca9e362c57",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000721.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "39f04170-3fe8-440f-96f8-ce4e90a03410",
+            "Value": {
+                "id": "2e9c1da9-9663-42a7-806f-416e624d742e",
+                "resourcePath": "sprites\\spr_cape\\spr_cape.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -95,11 +687,43 @@
             }
         },
         {
+            "Key": "3bd9814f-a042-4169-8b6c-370424ef00cb",
+            "Value": {
+                "id": "22967c92-1482-46a7-9b05-8369f38b9688",
+                "resourcePath": "datafiles_yy\\Orginals\\Me and Dad Jamming 12-2-2019.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "3cbd0e96-4355-4cfd-a1e6-b4b91cadf071",
             "Value": {
                 "id": "37f93d09-7b57-46db-a5f8-b38f3329e181",
                 "resourcePath": "views\\3cbd0e96-4355-4cfd-a1e6-b4b91cadf071.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3f53b74c-990f-4766-8227-2d11e40eb8ad",
+            "Value": {
+                "id": "6591b95f-9c04-4063-b905-42c6e9e4dce6",
+                "resourcePath": "datafiles_yy\\Orginals\\jam 222 loop.ogg.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3f8241c4-0c95-497b-a05d-f6fe530a0cb6",
+            "Value": {
+                "id": "9cc91a15-3caa-4671-94d0-4a4a2012972a",
+                "resourcePath": "datafiles_yy\\Orginals\\medi! shots.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3f8f7300-6557-4ec8-b4e2-2a254a021c6f",
+            "Value": {
+                "id": "7a67ce45-0d75-4dd2-8367-db437119eb04",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\round 2b.flp.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -111,11 +735,99 @@
             }
         },
         {
+            "Key": "3fa40fa2-3611-43df-85f1-1f275be20455",
+            "Value": {
+                "id": "331906b8-ad51-499e-8342-41a77882e507",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000013.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3fc19086-a4a0-4f61-80c1-5d5c80dac8c9",
+            "Value": {
+                "id": "bc184ee5-97f4-43cb-80f7-494cf258f786",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file.aup.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3fdaae01-48d3-4f39-a45a-36ba6b872202",
+            "Value": {
+                "id": "6c2f5950-76ce-42f8-8f2d-cd82073594cc",
+                "resourcePath": "scripts\\scr_update_shader_values\\scr_update_shader_values.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3feb5865-7b45-43be-856e-68a667e61ea7",
+            "Value": {
+                "id": "b3571f89-67b3-478f-888d-9a5f9bc95386",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000cd7.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4017697d-16c0-42bd-9678-baf35dac289b",
+            "Value": {
+                "id": "42c3e9db-7f3c-4f8a-94f2-f37d824dc067",
+                "resourcePath": "objects\\background_manager\\background_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "40223c35-ed76-4be7-ac9f-7dadce34d137",
             "Value": {
                 "id": "32109bd6-0ae6-449a-ade2-4a2d7f59f117",
                 "resourcePath": "sprites\\spr_boxer1_jab\\spr_boxer1_jab.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "40d1ae30-e7f3-49c2-994f-55cc4ef12277",
+            "Value": {
+                "id": "5cc65754-a2b5-45d1-986e-5864ca7fbcd1",
+                "resourcePath": "datafiles_yy\\Orginals\\papa always here\\papas always here.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "41742ab0-4237-41c6-a78f-4f8be3a4fbf0",
+            "Value": {
+                "id": "80f905d4-7380-4678-965d-610ddfcc83f2",
+                "resourcePath": "views\\41742ab0-4237-41c6-a78f-4f8be3a4fbf0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4227f399-a28d-4e89-9a86-c33859f997be",
+            "Value": {
+                "id": "b27fa508-4900-4d14-b554-149a9c09041a",
+                "resourcePath": "scripts\\sine_osc\\sine_osc.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "42c9abaa-adab-4d12-a337-f7dbd134fca0",
+            "Value": {
+                "id": "d3915082-2265-4647-b846-0d751e1e1103",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\bar in a cave under the sea.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "44080e68-5316-4201-af6d-74365ea4b6b4",
+            "Value": {
+                "id": "4dc6619e-6781-436c-9f62-3ce4cec0fb53",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\vocal C.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4484e21d-a189-416f-9e38-30e6a94c98d9",
+            "Value": {
+                "id": "a0fb248b-524c-4307-aac5-e4596b8843e9",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000a9b.au.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -127,11 +839,211 @@
             }
         },
         {
+            "Key": "46471ae5-e75c-4d7e-8ac7-9d9c9ddd2e1b",
+            "Value": {
+                "id": "6f4b27dd-794c-4dc2-8290-a4a3bca0e004",
+                "resourcePath": "scripts\\draw_pie\\draw_pie.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "476b7b9e-878d-422d-9d9f-4ebeb5092c6a",
+            "Value": {
+                "id": "f58a3458-fafb-45a9-9299-b93f30e30a59",
+                "resourcePath": "views\\476b7b9e-878d-422d-9d9f-4ebeb5092c6a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "48c09f1d-49f3-47b2-8466-7a56943d48ef",
+            "Value": {
+                "id": "5e274eb2-26e8-4b22-9c17-f960a73cd971",
+                "resourcePath": "sprites\\spr_light_block\\spr_light_block.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "48cf99d3-a38d-47e2-ba33-3ce2e60dfa80",
+            "Value": {
+                "id": "95f576fa-a4d8-46f9-9d1c-a985ccae2089",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e000012c.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4a18e5b6-eb48-4e6c-bbf5-21429bcbaf39",
+            "Value": {
+                "id": "c1b29ae7-2633-4611-8630-9b1dd9f4a6f4",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\Piano Fun Chop demo 1.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4b96c825-0fe3-41ac-9491-71645a5830fc",
+            "Value": {
+                "id": "b422c62f-70ef-4bbb-8faa-4eb0ac2e2c6d",
+                "resourcePath": "datafiles_yy\\Orginals\\electro bump\\demo 1.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4c195516-f049-42c2-a542-d9d641a12338",
+            "Value": {
+                "id": "7b6ba367-8768-4ba0-8140-46f15cbe75d1",
+                "resourcePath": "scripts\\scr_death\\scr_death.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4e335a70-7b6d-4331-b518-95a27b76a70c",
             "Value": {
                 "id": "7352f11a-58e7-4f5d-b4cb-b497e9476e7f",
-                "resourcePath": "objects\\enemy_canon1\\enemy_canon1.yy",
+                "resourcePath": "objects\\enemy_canon\\enemy_canon.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4e374627-8153-4640-8565-c3a9ef2095f1",
+            "Value": {
+                "id": "5e02a2b0-2612-4b8e-94c0-309a305b887c",
+                "resourcePath": "views\\4e374627-8153-4640-8565-c3a9ef2095f1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4fdc7324-7ea8-4ed7-8c92-c51d311e530e",
+            "Value": {
+                "id": "67e9ec22-0810-40bc-b1c7-bc7bda91f16e",
+                "resourcePath": "datafiles_yy\\Orginals\\blanket dreams\\day dream.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "501c15ef-157e-49df-8ce6-78a55bbf7d98",
+            "Value": {
+                "id": "7a9081da-255e-408c-8887-27b7c98e8e2b",
+                "resourcePath": "views\\501c15ef-157e-49df-8ce6-78a55bbf7d98.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5022c913-b8e4-416b-9877-e2bc369f5627",
+            "Value": {
+                "id": "52f50cac-c1e8-4692-9867-784d54f61bed",
+                "resourcePath": "rooms\\pause\\pause.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5053509b-bf6d-4f44-ae47-5ed5dd4abe1a",
+            "Value": {
+                "id": "6da0b29d-3e6c-4762-97ac-e58fa914c7ca",
+                "resourcePath": "objects\\saw\\saw.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5082b5c6-e004-42fa-8489-abc0f421e87a",
+            "Value": {
+                "id": "ea63ecc0-b8fd-4595-9474-c60c566b848f",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\demo 3.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "514b8daa-3699-4a0a-8175-21c6656b7324",
+            "Value": {
+                "id": "1425b0b0-f74c-4f01-befa-3c469a64d63f",
+                "resourcePath": "objects\\ui_music\\ui_music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "51e35b5b-ffda-407d-8040-95bcb81fdb8a",
+            "Value": {
+                "id": "bfc10ab1-a27d-4bf6-a464-124658eef2a1",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00005a2.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5252650d-76f8-492a-b273-9aa7d8cc04a4",
+            "Value": {
+                "id": "2bd6001f-17a2-495c-bfaa-ede5697055a1",
+                "resourcePath": "sprites\\spr_joystick_shine_blue\\spr_joystick_shine_blue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "525beae1-9cee-4e0f-b0fa-10fe9390e652",
+            "Value": {
+                "id": "f94c6c36-d713-4915-ac60-6e797023de74",
+                "resourcePath": "datafiles_yy\\Orginals\\bouncy bar 5-8\\bouncy bar.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "52e39c88-32f5-4bbb-9cc0-cf6fa1962840",
+            "Value": {
+                "id": "90a4679b-8693-499f-bb06-b9d325c7c419",
+                "resourcePath": "sprites\\spr_boxer1_idlejabr\\spr_boxer1_idlejabr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "549ea21d-7dbb-462e-8dab-77464588589f",
+            "Value": {
+                "id": "db99cbb5-bba1-4ced-9950-038df86ace93",
+                "resourcePath": "objects\\enemy_silentwalker\\enemy_silentwalker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "549ee9e6-e6fa-464c-82b6-e9f6d37d0532",
+            "Value": {
+                "id": "04f54c96-8349-460a-98d4-741424a8fff7",
+                "resourcePath": "objects\\e_basic\\e_basic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "54b8c7b3-9749-4588-8d2d-355f3334f1c6",
+            "Value": {
+                "id": "06f53c41-38a6-4176-a457-8691881ef195",
+                "resourcePath": "datafiles_yy\\Orginals\\memes\\tickle.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "54f53582-a915-4926-8e8d-ebcb698d83f7",
+            "Value": {
+                "id": "3fd9c11c-310b-46b4-b1fc-17b3b86a3089",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000976.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5649c8ae-6af9-4e7d-9510-64c4f3cafcb7",
+            "Value": {
+                "id": "fd842bdd-94ae-4821-9fef-ccf2b97fe00d",
+                "resourcePath": "views\\5649c8ae-6af9-4e7d-9510-64c4f3cafcb7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "578cf8e2-6739-4ae8-b084-4edf90bf1dcf",
+            "Value": {
+                "id": "f909a2c9-7eb8-4084-a7ae-a650737430f5",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\IDEA 5.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "578f1dfc-ad55-4ad5-8bd8-da98c70f9c09",
+            "Value": {
+                "id": "d9c5dd6f-6e20-4c65-89cb-2a4e9285aedc",
+                "resourcePath": "sprites\\spr_gold_coin\\spr_gold_coin.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,11 +1055,35 @@
             }
         },
         {
+            "Key": "590e8843-6117-485f-950d-429baff3ab93",
+            "Value": {
+                "id": "5ee7c058-a7d9-4432-80e8-0ed6fb746aaa",
+                "resourcePath": "views\\590e8843-6117-485f-950d-429baff3ab93.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a0c7142-eb95-4dc5-bb9a-ed2021f29724",
+            "Value": {
+                "id": "c37b2ccf-ed65-408d-93c4-858718880437",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\mastyer 3.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "5aed32cf-ed27-4414-ba65-6c13e75f106d",
             "Value": {
                 "id": "37f8b43d-7f87-4ed9-9d7b-c61c854a073f",
                 "resourcePath": "scripts\\scr_movement\\scr_movement.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5c260565-f483-44ac-a58a-8a545d86d815",
+            "Value": {
+                "id": "9dd98368-7a12-43f4-8cb2-d636945bf7cf",
+                "resourcePath": "datafiles_yy\\Orginals\\papa always here\\papas always here.flp.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -159,11 +1095,251 @@
             }
         },
         {
+            "Key": "5e6095e2-d36e-473e-b9d4-1f354ce8b9a0",
+            "Value": {
+                "id": "d328de9c-d971-4fd6-bddf-3be2e8b209dc",
+                "resourcePath": "datafiles_yy\\Orginals\\expiremental meter.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5ea45dc8-335e-4df2-898b-a43d59019bd2",
+            "Value": {
+                "id": "539ac85f-97ea-45b8-a071-2c52c265e2df",
+                "resourcePath": "views\\5ea45dc8-335e-4df2-898b-a43d59019bd2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6169c78d-7b45-4044-8da6-9182667f4db1",
+            "Value": {
+                "id": "edacb1a6-56e3-4486-8b42-7ab51740309e",
+                "resourcePath": "sprites\\spr_block2\\spr_block2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61a4f300-13ad-4e31-b86a-3aae626399a1",
+            "Value": {
+                "id": "f731c77b-dea5-4615-adcf-787f149cb0cd",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\bass recording a 1.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6275f6bc-467a-4c3f-9ff0-b7de5be2c0e5",
+            "Value": {
+                "id": "7a94f284-22f6-4aa0-b1fb-822ec17019ce",
+                "resourcePath": "views\\6275f6bc-467a-4c3f-9ff0-b7de5be2c0e5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "62d2ba8c-1f50-4d71-8583-c8c893a1a650",
+            "Value": {
+                "id": "560546de-1592-4cef-b81a-1417deb5dbb8",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\B.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6341a99f-723b-47a8-a791-6f84bdb09721",
+            "Value": {
+                "id": "c4613f3f-8563-40b9-a7ec-7981419d9651",
+                "resourcePath": "scripts\\scr_initialize_shader\\scr_initialize_shader.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6342d848-aa04-402a-a5c1-701c3a59d10d",
+            "Value": {
+                "id": "86ddddb7-f791-479b-a78d-b2f60eb9012b",
+                "resourcePath": "sprites\\spr_snow_car_red\\spr_snow_car_red.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "63c9fed4-c9b2-4a29-8c80-cdf59aa965a4",
             "Value": {
                 "id": "1a873c7c-c2e6-4fff-9e83-9511cdc6bedf",
                 "resourcePath": "objects\\manager\\manager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "658aaada-2473-4636-9f57-a8fa1f44246b",
+            "Value": {
+                "id": "f5d07831-daea-42ca-8168-45296f39fa8a",
+                "resourcePath": "views\\658aaada-2473-4636-9f57-a8fa1f44246b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "65b039f7-77fb-444c-ab1f-7f98d5f09102",
+            "Value": {
+                "id": "92b38dfa-0d8f-4454-a9fe-b181ce5b8ade",
+                "resourcePath": "objects\\light_shop_windows\\light_shop_windows.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "662f47cf-012e-49e3-b030-9698d0cca934",
+            "Value": {
+                "id": "453bcaea-8154-4daf-b0ff-710fb5c5da52",
+                "resourcePath": "datafiles_yy\\Orginals\\Ableton\\Chilled Stars Project\\Backup\\Chilled Stars [2019-08-07 200439].als.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "66ce46b3-e43b-48c7-9976-786423798dd5",
+            "Value": {
+                "id": "56c29c78-1637-4a2d-b0f7-95fef866c5b8",
+                "resourcePath": "scripts\\scr_particle_effect\\scr_particle_effect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6728cd91-3c9c-403d-aed7-ae98b87cd474",
+            "Value": {
+                "id": "508af0e2-1731-40c4-bf0f-e3e03c83fe12",
+                "resourcePath": "sprites\\spr_cannon\\spr_cannon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67c5a349-ee48-49d2-ab87-e0935639df4b",
+            "Value": {
+                "id": "ab395789-bc02-44cc-8db7-c2463a4a54be",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000ff2.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "67e22486-0d65-4a41-99a3-cd84d03b6dbd",
+            "Value": {
+                "id": "902ddebd-9e4b-4aa6-bcd6-a57fae9e7d55",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\Piano Fun Chop.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6852db7a-ef3e-42b6-b5e8-ed36886de40f",
+            "Value": {
+                "id": "3c12d729-64a8-468a-909e-04a3d5f8b86a",
+                "resourcePath": "datafiles_yy\\Orginals\\menu.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6898df88-203c-44f7-900a-b234b22cbe35",
+            "Value": {
+                "id": "9cc636fd-6590-4893-be11-2bc43f31b12d",
+                "resourcePath": "views\\6898df88-203c-44f7-900a-b234b22cbe35.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "68c692b0-18ab-49c4-9f05-56846a058f8f",
+            "Value": {
+                "id": "7519a17b-175a-4be8-9a27-48ab034e8a82",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\Limnetic Lullaby (demo).mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6a1a2b62-6f6f-4896-b226-2436b0246098",
+            "Value": {
+                "id": "d26ae269-e53b-49e5-a3f1-ee5d3c8e120f",
+                "resourcePath": "datafiles_yy\\Orginals\\short lil jam\\sppook theme.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6b0cb527-fc3e-40d0-a9e7-d80caaf4f9d9",
+            "Value": {
+                "id": "36c3cc7f-4ebc-470e-8634-0b976e993545",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00000e9.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6b4353cd-136e-4d3c-896e-4c7788302bbe",
+            "Value": {
+                "id": "feb90002-2fa3-4ecf-9792-3380a74ed8c1",
+                "resourcePath": "sprites\\spr_flyer\\spr_flyer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b9bd968-d0ed-4315-a6f8-9750c7c8c9a4",
+            "Value": {
+                "id": "a09f5219-9ccb-4ddb-a969-ba10b59b9566",
+                "resourcePath": "sounds\\s_footstep1_2\\s_footstep1_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6bb905b4-d8cc-48bc-9eb2-23c0b9e84142",
+            "Value": {
+                "id": "0c0f5f0b-01ab-4241-bc17-d2189d382a8d",
+                "resourcePath": "sprites\\spr_walker_test\\spr_walker_test.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6c089745-71af-453c-91ef-f6cd5294fc10",
+            "Value": {
+                "id": "de743e9e-cfaa-4030-ba1b-4d1a2868c5c0",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\master 2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6c261c79-6f35-4d19-9ca6-9b7d0cef0a2a",
+            "Value": {
+                "id": "a1c70a93-d409-449e-b184-c9b1c1123067",
+                "resourcePath": "views\\6c261c79-6f35-4d19-9ca6-9b7d0cef0a2a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f4d9893-84c9-4cb7-9ffd-1c7c804c2c95",
+            "Value": {
+                "id": "e4934f0d-30dc-4aed-97c7-ed2b2c94fe2a",
+                "resourcePath": "views\\6f4d9893-84c9-4cb7-9ffd-1c7c804c2c95.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f9f10fe-c281-45dc-b1a3-416491e00de4",
+            "Value": {
+                "id": "41c5a4c3-97fc-4353-9703-af1d21b4b404",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\cringy recording demo.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6fa4fd0c-61b2-4aac-b146-e11342e0224c",
+            "Value": {
+                "id": "9897a303-ab1a-44ee-a690-3d43677d5c70",
+                "resourcePath": "sprites\\shop_front\\shop_front.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6feaea96-fb3b-4593-84ad-70c1780abe6f",
+            "Value": {
+                "id": "02bbdff0-8ea6-4735-915a-ed5b54e41b7b",
+                "resourcePath": "sprites\\spr_block3\\spr_block3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6ff0ab40-8d77-4bea-95f4-201d7170e9c6",
+            "Value": {
+                "id": "90665682-cfee-4814-8ff1-692b1910c31d",
+                "resourcePath": "datafiles_yy\\Orginals\\acord.flp.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -175,11 +1351,51 @@
             }
         },
         {
+            "Key": "71f8a671-232c-4b50-a918-103c35553f80",
+            "Value": {
+                "id": "4fd661d3-4b81-4982-bb1d-c2a45380785f",
+                "resourcePath": "sprites\\spr_coin\\spr_coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74048662-565c-4d23-9e29-1f0d2ebcf9d6",
+            "Value": {
+                "id": "d2f35d82-bbd0-40d1-af3c-57ae2031e0aa",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000c88.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "74cfd7c5-6b5a-4e73-aa3b-97d417061f93",
+            "Value": {
+                "id": "1920a807-aa64-4da7-bbbd-f869288009e1",
+                "resourcePath": "objects\\enemy_walker\\enemy_walker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "02bf3b92-8211-4558-9249-6d9ac384e57a",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "76078422-43d0-4cf3-b2e5-1227fb99f772",
+            "Value": {
+                "id": "c63e4c05-8786-4556-a2ce-7e5ebaa91c53",
+                "resourcePath": "sprites\\spr_boxer1_trotjabr\\spr_boxer1_trotjabr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7614e45f-7a1c-4c7a-805b-a324c549f1de",
+            "Value": {
+                "id": "e68f8521-822a-4b62-9dc3-121e018df80b",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00001f9.au.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -191,11 +1407,131 @@
             }
         },
         {
+            "Key": "79cf5195-4c55-4070-91cc-391cea3949e5",
+            "Value": {
+                "id": "f9adeedf-63e7-4a5e-bf15-13aefecdfc71",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\Limnetic 3 - 4 demo 2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7acc8a97-3c4c-4695-bec2-0373dd943da7",
+            "Value": {
+                "id": "95c938c3-a09f-4ee3-9432-f35664925a89",
+                "resourcePath": "datafiles_yy\\Orginals\\jam 2.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7b84506e-9aa9-4358-af3f-34bdd95c695a",
+            "Value": {
+                "id": "3f644e93-2da3-4629-b82e-b2b13c550105",
+                "resourcePath": "sprites\\spr_hitbox\\spr_hitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7be5f4ee-970d-4ad5-a529-d2d73797f7c9",
+            "Value": {
+                "id": "fcdd3b7f-43db-4b3f-b404-9408d2b1fdeb",
+                "resourcePath": "views\\7be5f4ee-970d-4ad5-a529-d2d73797f7c9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7bf897b8-fc94-4de8-a548-8ad29df0391c",
+            "Value": {
+                "id": "7821eb77-bae2-4211-81ec-747a6607aecd",
+                "resourcePath": "views\\7bf897b8-fc94-4de8-a548-8ad29df0391c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7d4da13e-bed8-48ad-8c3e-f4281d50b240",
+            "Value": {
+                "id": "1d69cd27-ea88-40d0-bf76-81d6ce923032",
+                "resourcePath": "sprites\\spr_winter_town1\\spr_winter_town1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7d89477d-68da-4e6d-bb83-4816b4e8a064",
+            "Value": {
+                "id": "c876fd34-39e9-452a-bb57-8d6281a5e1d6",
+                "resourcePath": "datafiles_yy\\Orginals\\Ableton\\Chilled Stars Project\\Chilled Stars.als.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7e5e0c6c-737d-487b-a3c0-f6ca8a060bc9",
+            "Value": {
+                "id": "dacc316f-69b9-42c0-ac83-fad1971ab6cd",
+                "resourcePath": "objects\\enemy_hand\\enemy_hand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7f77a7e8-9fd8-4b50-9220-44222d690e95",
+            "Value": {
+                "id": "0a0fbff7-e58e-4722-84ff-8772cb12aaeb",
+                "resourcePath": "scripts\\scr_gravity\\scr_gravity.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "81b2800a-96ba-42b2-a750-7e5af48afa84",
+            "Value": {
+                "id": "f386becd-b44e-4441-9b0c-39a0dad0eb5d",
+                "resourcePath": "objects\\lighting\\lighting.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "81e37023-def3-4e53-9bfd-20369e54da03",
+            "Value": {
+                "id": "7775b244-2417-4a63-b177-2e0b5679e2b1",
+                "resourcePath": "sprites\\spr_saw1\\spr_saw1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "592b9186-6485-4a63-a7f4-e1129a01629b",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "842783db-7a13-4bad-9fe5-29cb5cd3bd14",
+            "Value": {
+                "id": "e44cef94-87cc-4274-a4b3-b95706def07a",
+                "resourcePath": "views\\842783db-7a13-4bad-9fe5-29cb5cd3bd14.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "85539a83-68d5-44df-abec-0216332a91bc",
+            "Value": {
+                "id": "673a2469-89e8-4e02-8915-1a4147e302ab",
+                "resourcePath": "sprites\\spr_e_dustring\\spr_e_dustring.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "86736601-f9ba-4cb6-90de-b39db66c002c",
+            "Value": {
+                "id": "b040a4fb-5a01-4c04-b10a-bb7013af2599",
+                "resourcePath": "views\\86736601-f9ba-4cb6-90de-b39db66c002c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "881078d3-9f8a-4b02-81c2-8aec2f6a44bb",
+            "Value": {
+                "id": "b7ed4882-c262-4b90-8384-f7aad49b48e9",
+                "resourcePath": "datafiles_yy\\Orginals\\jam 223.mp3.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -207,11 +1543,107 @@
             }
         },
         {
+            "Key": "890feb1d-a9bd-480b-bcb7-807968540cbb",
+            "Value": {
+                "id": "ff2c9405-b764-4882-a0fc-4fb72235376d",
+                "resourcePath": "datafiles_yy\\Orginals\\stream free style\\free style 1.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8b0fe95d-34d6-4d25-ac3b-c3078e170669",
+            "Value": {
+                "id": "abb9bc5b-458c-458a-ad84-affb40fd98a8",
+                "resourcePath": "datafiles_yy\\Orginals\\Ableton\\Chilled Stars Project\\Desktop.ini.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8baee9d8-1326-408f-8ff4-406b325e96d7",
+            "Value": {
+                "id": "af6fb27c-231c-40fa-b417-e0fb24d3c6b9",
+                "resourcePath": "objects\\block_ceiling\\block_ceiling.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8bf85af3-90cf-4a72-a157-656b9fdbd3e3",
+            "Value": {
+                "id": "19f90470-c527-42ab-9459-3ef31e6629d3",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000730.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8dec9754-3f6a-4655-ba5c-ecfd9065b59d",
+            "Value": {
+                "id": "eb5a1fa7-d435-4d18-9f31-ecdca431a3cf",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\even 3 4.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8e7b9f45-5db8-457f-963b-cd5d0029af64",
+            "Value": {
+                "id": "6fbbd859-500c-4c35-84e2-32cbcaaa4f19",
+                "resourcePath": "datafiles_yy\\Orginals\\stream free style\\mini song 1.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8ec4713e-5504-4fd5-9d9a-5bbf09eb6dc5",
+            "Value": {
+                "id": "1b24b663-6504-4312-8fa0-9768d8a20034",
+                "resourcePath": "objects\\saw_target\\saw_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8f4a29cc-8007-4a85-8d13-30c8a582c0cd",
+            "Value": {
+                "id": "ef10145b-c9e4-4377-abdc-f8a27303ae74",
+                "resourcePath": "datafiles_yy\\Orginals\\stream free style\\free style1.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8fb5c942-5f0a-487c-895d-4841d2c79ce7",
+            "Value": {
+                "id": "5df084a5-92c3-4e43-ab18-0970861d2f41",
+                "resourcePath": "objects\\enemy_flyer\\enemy_flyer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8fbed72c-f8a8-4155-a5ab-f342313c0b62",
+            "Value": {
+                "id": "ac9df298-2def-4318-8c58-eb7f3190bba9",
+                "resourcePath": "views\\8fbed72c-f8a8-4155-a5ab-f342313c0b62.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8fcf015e-ef2c-40cb-a5fc-af0956cfc4a8",
             "Value": {
                 "id": "a482bfd6-c3b6-4c2b-8725-a9cbed9f8465",
                 "resourcePath": "views\\8fcf015e-ef2c-40cb-a5fc-af0956cfc4a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "90ab9468-2b8f-474b-bf3a-99f0ef7e2835",
+            "Value": {
+                "id": "2dab1355-2b91-4d2c-b0d7-8e5ede4213ed",
+                "resourcePath": "sprites\\spr_joystick_shine\\spr_joystick_shine.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "90e719f9-57bc-43ec-8ee1-45cfc9d73046",
+            "Value": {
+                "id": "2da84b5f-bb64-45e3-a708-fa8477e98433",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000e33.au.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -223,11 +1655,43 @@
             }
         },
         {
+            "Key": "915b00f9-da97-47df-afab-468ec7ba8b56",
+            "Value": {
+                "id": "2df2812c-bb5e-4734-9fa3-c109babf38a7",
+                "resourcePath": "views\\915b00f9-da97-47df-afab-468ec7ba8b56.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "91944769-c617-41cb-9883-e2d73e6064ad",
+            "Value": {
+                "id": "e40c0ab6-5ec5-463d-a8e7-542a9982c943",
+                "resourcePath": "datafiles_yy\\Orginals\\jam 22.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9274ce91-e80c-411c-8368-0149b3380385",
+            "Value": {
+                "id": "76d2873a-c36d-4dd9-9ed0-c777596918ab",
+                "resourcePath": "datafiles_yy\\Orginals\\Me and Dad Jamming 12-2-2019.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "92aafc00-3e3a-4627-944d-277a40b4dacd",
             "Value": {
                 "id": "1e7a830d-a031-48c0-8804-0ab6494d9a2e",
                 "resourcePath": "views\\92aafc00-3e3a-4627-944d-277a40b4dacd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92ce6871-e44f-4aa1-ac23-fe18f3c69d73",
+            "Value": {
+                "id": "41f8c2cc-3da8-417a-9ec3-86354a44c821",
+                "resourcePath": "datafiles_yy\\Orginals\\papa always here\\papas always here_2.flp.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -239,11 +1703,203 @@
             }
         },
         {
+            "Key": "937a7a31-19f7-4657-a513-a07c2bb4cbc2",
+            "Value": {
+                "id": "72ec04af-fe88-4c15-9126-a7c5038d96b7",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\cringy recording demo2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "93e944af-0f1c-4854-bb7f-994221f9e73f",
+            "Value": {
+                "id": "9a174ad5-a918-438f-b623-d64f5d962374",
+                "resourcePath": "views\\93e944af-0f1c-4854-bb7f-994221f9e73f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9418789a-9977-44fd-ab67-cd763168aa07",
+            "Value": {
+                "id": "adb9e67c-90b7-4e26-bd06-8a38d8e02a5a",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e000054c.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "96355e24-29a6-49b5-bc84-8712588b5a76",
+            "Value": {
+                "id": "e03369d4-b6ea-461a-87f8-3c1f8f1c01d5",
+                "resourcePath": "datafiles_yy\\Orginals\\untitled.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "964b9653-cb71-4dff-b377-b87661498751",
+            "Value": {
+                "id": "49cb0e66-a1fc-43da-bff8-416818134ee3",
+                "resourcePath": "datafiles_yy\\Orginals\\Ableton\\Chilled Stars Project\\Backup\\Chilled Stars [2019-08-07 203234].als.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "98aaa558-b645-402b-8610-db773f52ce5e",
+            "Value": {
+                "id": "8810cfea-1945-41ab-9dc6-6023d482d7ed",
+                "resourcePath": "datafiles_yy\\Orginals\\a thoughtful snow place\\snow wonder land.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "98f95e75-430d-4a55-933b-1e57682a33fd",
+            "Value": {
+                "id": "20c60323-90d9-4225-91bc-f46a9d9f33ee",
+                "resourcePath": "datafiles_yy\\Orginals\\jam 22.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "99d7c1b0-c956-4e09-bbc5-121e08188248",
+            "Value": {
+                "id": "945490ee-7bb5-4d1f-a376-695bdda9e800",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\Crystal Mines demo 1.2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9b4d6357-d716-407b-9650-1979d4abc201",
+            "Value": {
+                "id": "45152204-ecb4-4185-bc92-380fae13987b",
+                "resourcePath": "sounds\\se_punch\\se_punch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "9bbf21f5-fe8a-4ebb-9b44-a72c0f6431dc",
+            "Value": {
+                "id": "95f4d4fc-1a20-4216-9549-5c35fc4aff9f",
+                "resourcePath": "sounds\\se_hit\\se_hit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "9c0045d4-58d1-4ec5-95ed-360636cf6f05",
+            "Value": {
+                "id": "628d752f-97d5-403c-b9fe-45e653d0dbe3",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e000055f.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9c8dfb28-6712-4f24-ab7e-8f14e4288a00",
+            "Value": {
+                "id": "82eb1478-2e50-4de1-b37e-968121f1aec1",
+                "resourcePath": "sprites\\spr_black\\spr_black.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9cc11ee3-9b93-40ab-a559-d4eca6637af2",
+            "Value": {
+                "id": "6b2fa6b0-587f-468d-8c54-0ff63fab05b3",
+                "resourcePath": "views\\9cc11ee3-9b93-40ab-a559-d4eca6637af2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ce71583-9b8b-4fda-84a4-267b86a437c0",
+            "Value": {
+                "id": "1bfec152-9a21-4bd1-bd45-fe7f7e94b88f",
+                "resourcePath": "sprites\\spr_boxer1_hit\\spr_boxer1_hit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9cf1e5cb-3126-46c8-bf69-134d86f5a1a7",
+            "Value": {
+                "id": "0b3adb03-5631-446f-be57-85a96b6b3245",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e00001e7.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9da10ba3-2405-4075-b94d-07e0e2e824c0",
+            "Value": {
+                "id": "a13ecb6a-fc9b-4469-be79-ed1ff25e6998",
+                "resourcePath": "sprites\\spr_test_tileset\\spr_test_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e12e91b-597c-40eb-be70-7a96f6e99919",
+            "Value": {
+                "id": "caa2417e-c629-4790-92f1-4e2aab962418",
+                "resourcePath": "datafiles_yy\\Orginals\\Ableton\\Chilled Stars Project\\Ableton Project Info\\AProject.ico.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9e559e2d-7d20-4988-b460-cf302639d4ba",
+            "Value": {
+                "id": "1779ed39-db97-40fc-ad59-f2954e43c48b",
+                "resourcePath": "sprites\\spr_winter_town2\\spr_winter_town2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9ef58270-046d-474f-84ca-515bd995b31b",
+            "Value": {
+                "id": "ff6f3395-672c-443a-9eec-d7028f8261a1",
+                "resourcePath": "scripts\\scr_return_tap_device_number\\scr_return_tap_device_number.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9f2956a9-45ca-48f6-b10e-f7fd070e9cb7",
+            "Value": {
+                "id": "42e215da-bc13-4a5b-844e-e2b9675393f5",
+                "resourcePath": "datafiles_yy\\Orginals\\Jam1.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9ffcdb3f-c821-46aa-aadd-9fd8e58e873a",
+            "Value": {
+                "id": "4b7a64fa-28dd-4224-b7e2-7e1583f8a5e0",
+                "resourcePath": "sounds\\s_metal_hit1\\s_metal_hit1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "f909b341-7e73-4682-9a23-0bfe6515410d",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a1289dc7-d3d5-44d7-b40d-dd81ea5ec9e6",
+            "Value": {
+                "id": "273e6477-50a9-4fd7-a236-1a0fb2b94ebe",
+                "resourcePath": "sprites\\spr_lockdoor\\spr_lockdoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a14c0ea9-5295-4b65-9c76-90ba441581d1",
+            "Value": {
+                "id": "40597e0a-b9d9-4053-8633-548f5e352d93",
+                "resourcePath": "objects\\hit_box\\hit_box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a18dc67c-3937-4590-ba2a-aa3e5db508fc",
+            "Value": {
+                "id": "93baff65-272d-4f81-920a-52e969736bc5",
+                "resourcePath": "sprites\\spr_winter_sky\\spr_winter_sky.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,11 +1911,115 @@
             }
         },
         {
+            "Key": "a4e0a86d-26a3-41fc-b23b-4074f567ddd5",
+            "Value": {
+                "id": "d304dc42-82e3-4726-a5a3-6a8d1317266e",
+                "resourcePath": "sprites\\shop_window_mask\\shop_window_mask.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a4e8da3d-13e2-4f9b-9a82-d5349f7e7738",
+            "Value": {
+                "id": "a395fe64-0350-4b6b-aad0-9ceb9d432fae",
+                "resourcePath": "views\\a4e8da3d-13e2-4f9b-9a82-d5349f7e7738.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a4f88780-fae1-46c2-a60e-bddb07999c3c",
+            "Value": {
+                "id": "47599f1a-92a7-4960-b619-dfa7b26c242a",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000b06.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a53a4716-ed30-48c0-a890-10b52d8c4d25",
+            "Value": {
+                "id": "173853ec-643b-4149-bef8-a15ac2a98c30",
+                "resourcePath": "sprites\\spr_light1\\spr_light1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a54dffe2-c133-46b5-88f0-41cb008d55ec",
+            "Value": {
+                "id": "8dc63c44-8419-4ab0-8c2f-72d5bf491196",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\Crystal Mines demo 1.0.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a6013d30-43d6-4e6b-a260-c2f3268270b7",
+            "Value": {
+                "id": "b5e9974b-cbb3-40b5-9448-66c490c43552",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings.aup.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a6eb78e4-3abe-4a42-a593-1f9bf9bd14fb",
+            "Value": {
+                "id": "f7727bc6-17eb-46e8-bdaf-5ff622d3c037",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000ffe.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a6f98dc2-c4d0-48c6-a406-39d5879a5aa2",
+            "Value": {
+                "id": "d5fb619b-1cce-4d46-967a-16c02d79b648",
+                "resourcePath": "views\\a6f98dc2-c4d0-48c6-a406-39d5879a5aa2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a779655d-ca2e-4345-acbd-d6ed89aa7d61",
+            "Value": {
+                "id": "7c17942e-0966-448f-916d-80cbf80c6df7",
+                "resourcePath": "datafiles_yy\\Orginals\\japaneese bass thing.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a78e8089-4983-4d5e-ab95-5b2b45f7ed01",
+            "Value": {
+                "id": "e74d7bfc-841d-4de4-b04e-3437c0d6c621",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "a05afa6b-430f-40de-885d-1517f889bc1c",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9f92540-6c08-4491-9f56-a29c23fa1178",
+            "Value": {
+                "id": "4f2c3aee-60ad-4d57-b4e8-f483bee57e61",
+                "resourcePath": "views\\a9f92540-6c08-4491-9f56-a29c23fa1178.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aa538cdc-aa69-4d1d-bcee-da3905305f0f",
+            "Value": {
+                "id": "0b43d8b2-1db4-44d5-a656-f7273503ae27",
+                "resourcePath": "datafiles_yy\\Orginals\\intro mmx.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "aaaeb252-eefa-494a-8a0a-5f9c0f61d5e7",
+            "Value": {
+                "id": "91e0d9e8-4afd-42a3-b05a-51e7f129fe02",
+                "resourcePath": "objects\\e_hit1\\e_hit1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -271,11 +2031,163 @@
             }
         },
         {
+            "Key": "ae17a21c-1754-4d06-aceb-3008126870f9",
+            "Value": {
+                "id": "07b08245-0d44-4980-8d7a-e1a87f9fcc59",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\Piano Fun Chop beta master  mix.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "af48bba1-787f-4b95-92bc-1cf8d3296670",
+            "Value": {
+                "id": "d5d12e7a-78ac-4308-a4e4-75419b3820df",
+                "resourcePath": "sounds\\s_lowwind\\s_lowwind.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "af836a12-b0e6-4cfc-ab24-195d6534ffa1",
             "Value": {
                 "id": "414b07b3-77ee-4206-a4ef-7d50493f0a0b",
                 "resourcePath": "sprites\\spr_boxer1_idle\\spr_boxer1_idle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0266de9-6d03-434c-a218-50ea56d02e49",
+            "Value": {
+                "id": "8160be28-2cde-4a31-8007-e162eb522ca7",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000e16.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b02dd512-de8a-4340-aba4-7bd0307f2ce8",
+            "Value": {
+                "id": "ffdf3f2e-ba33-493e-a853-937ad5604b66",
+                "resourcePath": "objects\\nospawn\\nospawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b04db675-7773-4b49-b0f7-0b174f100ad9",
+            "Value": {
+                "id": "42c91eb7-2d5b-4d66-b41a-7c4858b4ed58",
+                "resourcePath": "scripts\\scr_next_level\\scr_next_level.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b0678a75-1212-4737-9172-96711bcdf9a6",
+            "Value": {
+                "id": "951b83b8-9ab1-4570-98d4-c665c425d051",
+                "resourcePath": "datafiles_yy\\Orginals\\Ableton\\Chilled Stars Project\\Ableton Project Info\\Project8_1.cfg.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b19232bf-7e28-4657-8730-529a0ca069f5",
+            "Value": {
+                "id": "61d0df54-c193-4fed-bab9-cad1ab19cc07",
+                "resourcePath": "views\\b19232bf-7e28-4657-8730-529a0ca069f5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b1be4c95-024b-40fe-84f5-3e805f671af0",
+            "Value": {
+                "id": "be67d664-b31d-46aa-a8d2-ed9aa840ba4c",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\greens screen video.mp4.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b1ec3d8b-7edc-4171-9d69-986c4f1e882c",
+            "Value": {
+                "id": "f9d45884-51fa-4014-a188-01f4a74a7b48",
+                "resourcePath": "scripts\\scr_draw_shader\\scr_draw_shader.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b37ce049-ea06-4280-8a0b-d77109e144b6",
+            "Value": {
+                "id": "d500e364-ab99-465a-9e4a-eb61ee8d0285",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000bce.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b40faf05-a6a0-4807-82dc-cb7bb4f8940c",
+            "Value": {
+                "id": "3e9aa302-77aa-4c46-976d-547390e4ede1",
+                "resourcePath": "views\\b40faf05-a6a0-4807-82dc-cb7bb4f8940c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4fe8b80-ffca-460f-b5e9-be8363b8a8e1",
+            "Value": {
+                "id": "e9bb5e6f-042d-4e9e-a00c-df5d83d4054b",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\Crystal Mines demo 1.1.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b97b6523-3ea4-4730-b444-a920fd5dcf91",
+            "Value": {
+                "id": "4b9b9f20-2fec-437b-82d3-64a839a58e22",
+                "resourcePath": "rooms\\snow_outside_2\\snow_outside_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "bbb16372-273c-4cb5-85cc-f491c103f21c",
+            "Value": {
+                "id": "e7230370-bb76-49be-8999-e3c50656bc89",
+                "resourcePath": "datafiles_yy\\Orginals\\short lil jam\\jam A minor.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bc221182-d6ba-48f5-a42b-e53ab476a757",
+            "Value": {
+                "id": "1527395e-7cdf-4406-95aa-f6081d1dd1d5",
+                "resourcePath": "objects\\gold_coin\\gold_coin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bcefa84e-d3b3-4d97-a0dd-d8ad2584437b",
+            "Value": {
+                "id": "588e18f8-4e5d-496a-89d0-63fd3d11500a",
+                "resourcePath": "datafiles_yy\\Orginals\\jam2 loop.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "be8d661b-3c6e-436b-bb5a-fd59fa0e5a0c",
+            "Value": {
+                "id": "364f760b-403f-4b2e-98c1-a1ef7b6a8147",
+                "resourcePath": "datafiles_yy\\Orginals\\small thoughts.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bea55bce-4d67-4d82-95a8-803089ad5daf",
+            "Value": {
+                "id": "506f842e-5596-4a36-adda-3a83d529487e",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\Piano Fun Chop beta mix.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bf0d3991-86fa-42cf-abf0-41532668b567",
+            "Value": {
+                "id": "c795a1d5-e34e-4669-810d-f7db4321e69e",
+                "resourcePath": "views\\bf0d3991-86fa-42cf-abf0-41532668b567.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -287,11 +2199,75 @@
             }
         },
         {
+            "Key": "c08dcf5d-f016-4f8f-89f2-032fc0f705c8",
+            "Value": {
+                "id": "5aa15269-2c7e-4609-94da-2b1aa5af6b2c",
+                "resourcePath": "objects\\bullet\\bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c23b06dc-998f-405b-aacb-6d091434a35e",
+            "Value": {
+                "id": "14e9065a-52a8-4965-9359-04a423c673a9",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00002a8.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c2e9ee1c-9e9b-4760-9341-ff894be98d2c",
+            "Value": {
+                "id": "20fcfbfc-6c3e-476e-8975-6ada6638884e",
+                "resourcePath": "views\\c2e9ee1c-9e9b-4760-9341-ff894be98d2c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c353ded8-25ab-4e54-b255-9c0cd120067a",
             "Value": {
                 "id": "b79c06ad-eaf0-4e92-8301-5cb098bc38d3",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c36266c5-1684-4e33-a618-05886ce2325c",
+            "Value": {
+                "id": "3210c0e1-57c3-4c33-996a-d63eb25f1ec7",
+                "resourcePath": "sounds\\s_punch_air1\\s_punch_air1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c371aad4-1974-4c58-b43e-b4d88d9e33f7",
+            "Value": {
+                "id": "e3b86ff6-d9fc-4878-91df-9e569d2d86ee",
+                "resourcePath": "sprites\\spr_winter_clouds1\\spr_winter_clouds1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c7e7c1e7-30a8-4f83-a191-232a594c3e61",
+            "Value": {
+                "id": "b1c2ad01-19d4-4368-936f-0bb41a841e9b",
+                "resourcePath": "views\\c7e7c1e7-30a8-4f83-a191-232a594c3e61.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7f4adee-75d0-4bd4-a5c4-702911883a8f",
+            "Value": {
+                "id": "e5a2e85b-6a0d-4cac-ac93-b8b21a6d14f5",
+                "resourcePath": "sprites\\spr_e_hit1\\spr_e_hit1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c80cb32f-d53e-45da-91ff-9f2ab2e28f2d",
+            "Value": {
+                "id": "aa04049d-59d8-4936-9684-dd2fb1d84b1e",
+                "resourcePath": "objects\\light_source_front\\light_source_front.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -303,11 +2279,43 @@
             }
         },
         {
+            "Key": "c906e62f-8656-4865-ac37-a0916519555b",
+            "Value": {
+                "id": "4962f359-45a6-4cb0-9eea-3425d31a64aa",
+                "resourcePath": "objects\\enemy_spawner\\enemy_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ca4fa814-3f4b-4a7a-85be-0ba9c588ac18",
+            "Value": {
+                "id": "7bd410d7-92c5-4bf7-b059-6fd95213aeef",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\CYCdh_MultiCrash-01 - Part_1.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ca53c2d8-329e-4b22-9545-753aa2e78237",
+            "Value": {
+                "id": "16568b6a-1f37-4fd8-af26-3df894a6343e",
+                "resourcePath": "sprites\\shop_back\\shop_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cb6e60f3-667a-4e83-b306-df970b712b21",
             "Value": {
                 "id": "c4e68929-eb6e-49ae-9a33-3ba8e31f4c14",
-                "resourcePath": "sprites\\spr_boxer1_idlejab\\spr_boxer1_idlejab.yy",
+                "resourcePath": "sprites\\spr_boxer1_idlejabl\\spr_boxer1_idlejabl.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbd268be-7cda-4264-a1e7-beb82eedd554",
+            "Value": {
+                "id": "4c754175-9999-46b3-8a2a-fe0fbe2a3996",
+                "resourcePath": "datafiles_yy\\Orginals\\jam3.flp.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -319,10 +2327,170 @@
             }
         },
         {
+            "Key": "ccd87973-1c0f-4de0-a3c4-b7c4024d70c2",
+            "Value": {
+                "id": "45932297-7120-4cab-8256-dc939e039498",
+                "resourcePath": "views\\ccd87973-1c0f-4de0-a3c4-b7c4024d70c2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cd200bc5-91cc-4758-91b4-0ca8bfeeb55a",
+            "Value": {
+                "id": "587eadcb-1194-4367-b6d4-c166c0e9dd66",
+                "resourcePath": "sounds\\se_deflect\\se_deflect.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "cda3fee1-8452-4ce8-aa48-dd17a8610c05",
+            "Value": {
+                "id": "c8f2644a-a220-4a55-b0ba-69b58bb8fa51",
+                "resourcePath": "datafiles_yy\\Orginals\\short lil jam\\jam A minor.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ce585460-5db3-42e7-b331-16ef3a4f9179",
+            "Value": {
+                "id": "e72bb4b3-cf35-4ef8-a939-7266bc09c778",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000e42.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d07c97e2-17c5-47b0-9039-34dd5015e5a7",
+            "Value": {
+                "id": "3f317769-9a23-49fa-8bb3-fb218fff7f2d",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\demo 4.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d08de027-a9f5-4601-9d55-f6a8c0066c79",
+            "Value": {
+                "id": "3192d989-6095-460c-9662-0b57f55b3da4",
+                "resourcePath": "scripts\\wrap\\wrap.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d0a4eb8e-046e-483f-9798-81626e6085db",
+            "Value": {
+                "id": "1016e89e-26b9-4dba-8e32-2c134b98042a",
+                "resourcePath": "sprites\\spr_boxer1_jump\\spr_boxer1_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d0b9056a-cad0-49e5-9ec1-49275c49ab21",
+            "Value": {
+                "id": "ca503b52-f307-4fc3-8486-989a31018848",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00009c8.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d13036b9-44a9-45e0-9f34-9cdf8980b8a2",
+            "Value": {
+                "id": "2c2d10c3-e722-4ab9-9f2d-0d9e09f144d6",
+                "resourcePath": "tilesets\\TestTileset\\TestTileset.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "d14310bc-24c7-47a7-8422-d7c40819e30d",
+            "Value": {
+                "id": "0795bbae-bfa0-4c1c-b305-80729e1e45f2",
+                "resourcePath": "shaders\\sh_outline\\sh_outline.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "d15e67b3-4ddf-4976-9c49-712bcd57715c",
+            "Value": {
+                "id": "edbc6baa-a788-4e04-8599-dfef90d2f94c",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\untitled.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d194aae1-7d75-4b55-b14f-08755b728a9c",
+            "Value": {
+                "id": "78817d24-bbe0-4418-b439-83337d8ce5a8",
+                "resourcePath": "sprites\\snow_street1\\snow_street1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2c31297-2c9c-481e-ae9d-a5ca3ea1f8d3",
+            "Value": {
+                "id": "ae502f03-180c-42a8-b525-183c69655c1a",
+                "resourcePath": "datafiles_yy\\Orginals\\short lil jam\\Introspection Space Synth.uviws.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d2f58ae2-d4b5-47d3-bc7f-68788976cdc1",
+            "Value": {
+                "id": "fd1209ae-26aa-484f-8056-c8895610d096",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\rnd 2 inso.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "d3956c10-6098-4d35-9c5b-db7a59fe6421",
             "Value": {
                 "id": "97787959-6d76-48b3-845b-5e057ac03bbd",
                 "resourcePath": "objects\\block\\block.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d478b7e1-8540-4ce4-b18f-f7dc643c4207",
+            "Value": {
+                "id": "c97482a7-b376-4193-8faa-bba43e3ab954",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000dff.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d496caca-425c-48e0-98e4-2689c1f6e6a6",
+            "Value": {
+                "id": "9707530a-5273-4a2b-b4de-71f3250a400d",
+                "resourcePath": "views\\d496caca-425c-48e0-98e4-2689c1f6e6a6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d5128cd5-0e83-4b5b-bb6d-2055a6f3e76f",
+            "Value": {
+                "id": "6db05842-be24-4cc7-b76e-4407b9dde358",
+                "resourcePath": "sprites\\sprite51\\sprite51.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d5dabe9f-3c7c-4e44-9993-e00ee7475388",
+            "Value": {
+                "id": "7116818c-ec7d-492c-8631-d1c25b380150",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000647.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d71707e6-5946-4bd7-ae09-53906d7e0028",
+            "Value": {
+                "id": "f718f36f-17fb-4c1d-8586-95a1cf8e32a8",
+                "resourcePath": "sprites\\spr_ui_pause\\spr_ui_pause.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d74894ef-59ef-47d6-bd01-1be57294eaa0",
+            "Value": {
+                "id": "75b8fc74-07ab-4e8f-b46e-51b656e459c4",
+                "resourcePath": "objects\\light_source_back\\light_source_back.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -335,10 +2503,122 @@
             }
         },
         {
+            "Key": "d8b2691f-17ea-4ff8-8669-16457ac16418",
+            "Value": {
+                "id": "cb07199f-a7a7-45a3-8e7c-708cb88b0650",
+                "resourcePath": "views\\d8b2691f-17ea-4ff8-8669-16457ac16418.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d98d270f-d119-465a-a933-c74f2b4a7469",
+            "Value": {
+                "id": "df7d3e90-03e1-46e5-8829-e6859534fe2c",
+                "resourcePath": "views\\d98d270f-d119-465a-a933-c74f2b4a7469.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "db8d8040-8677-4027-b1d6-b312ef1a86fc",
+            "Value": {
+                "id": "57987c75-ca65-42e7-8a78-4232c1d04605",
+                "resourcePath": "sprites\\spr_death\\spr_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dcac1982-ede6-49e6-995a-5c276747bc08",
+            "Value": {
+                "id": "b63973e3-8169-4743-9e76-660193298540",
+                "resourcePath": "sprites\\spr_silentwalker\\spr_silentwalker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dce05132-1c02-4d46-b032-d2bfdba0794a",
+            "Value": {
+                "id": "a4ead8b1-5d8b-4d8a-a997-f267bc22f412",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dcf24f28-bd9c-4c71-aa33-9a4e083d474f",
+            "Value": {
+                "id": "029d668c-e270-4c99-b38c-8abd3569203f",
+                "resourcePath": "views\\dcf24f28-bd9c-4c71-aa33-9a4e083d474f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dd06442c-157c-4cb7-909f-1623615c6367",
             "Value": {
                 "id": "0be75c6c-85d1-414b-9bd2-6b829817da3b",
                 "resourcePath": "views\\dd06442c-157c-4cb7-909f-1623615c6367.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dd1221f8-0d8c-47b9-b4a9-318eaa04851c",
+            "Value": {
+                "id": "28bd5ccd-e9a1-4271-905b-10e28823932a",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00004c1.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ddee0d8b-b0b6-4f4a-b13d-a0aef7a65f17",
+            "Value": {
+                "id": "663f0da3-4e5d-4a08-8257-a9b8c6253361",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\demo 2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "de833c0d-4f83-44ec-b703-e2397d9be84a",
+            "Value": {
+                "id": "749669f2-f773-4b53-ad2d-bf8defa7f56c",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\greens screen video.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dee5e2e9-6e1d-4917-aeba-4bdfe3dcde76",
+            "Value": {
+                "id": "f6cc7080-b1dc-42ee-a6bc-7a69c7cf50d8",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\New folder\\vocal.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e063ab3e-10bf-46a0-a2ed-37a1eaa40ff8",
+            "Value": {
+                "id": "61009629-52c5-4344-80a5-00d96e8100f2",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\demo 2.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e1a473f3-6e0d-4e23-af46-2ab0ce463e64",
+            "Value": {
+                "id": "fef56b42-96fa-4f80-9d2e-49f5078a1fd0",
+                "resourcePath": "views\\e1a473f3-6e0d-4e23-af46-2ab0ce463e64.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3244d5d-6987-41b6-87c5-e904b4d5582a",
+            "Value": {
+                "id": "a79f0217-6e81-4158-8042-3134580e1dfd",
+                "resourcePath": "sprites\\spr_ui_music\\spr_ui_music.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e379cd2b-d2d5-4ab9-ab17-585edb60aced",
+            "Value": {
+                "id": "0af169a2-3315-4406-8d0d-58a390a3bf21",
+                "resourcePath": "views\\e379cd2b-d2d5-4ab9-ab17-585edb60aced.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -351,6 +2631,94 @@
             }
         },
         {
+            "Key": "e519daa2-9b7b-46df-b302-6751ab0f8f64",
+            "Value": {
+                "id": "d242b1d6-555e-40cb-981e-3fc88262b5a3",
+                "resourcePath": "datafiles_yy\\Orginals\\memes\\tickle.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e528d516-7d46-452b-bb09-824cfa358c2f",
+            "Value": {
+                "id": "c5779668-d048-409b-b55e-9dd65f4d8448",
+                "resourcePath": "rooms\\snow_outside_1\\snow_outside_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e547c502-820f-482e-968d-37214b5790d2",
+            "Value": {
+                "id": "6a6afcab-9d2d-4b70-b877-7d93866b9e1f",
+                "resourcePath": "rooms\\shop\\shop.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e77385f1-981d-467f-acd8-4a941ff2ff0e",
+            "Value": {
+                "id": "283a4d00-cb32-4c77-9b50-2a0d40e9adb4",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\A.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e840fce2-48f6-4cd2-8391-ae6e2fbaee71",
+            "Value": {
+                "id": "772c4255-c213-443b-932a-daf2b0ee1dd3",
+                "resourcePath": "datafiles_yy\\Orginals\\Valley of Shadows.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e8d2e5b2-925e-471e-96f5-a11e789bc25b",
+            "Value": {
+                "id": "d0895bbb-d20d-4fc1-acee-0bb3ccac30ad",
+                "resourcePath": "datafiles_yy\\Orginals\\Cool Synth Idea\\cool msynth.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "eb75d44a-cb2e-4154-807f-0331db1d2efa",
+            "Value": {
+                "id": "1ac6c231-dde2-4802-92a6-294ba722b3cc",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000736.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ebd7d1a7-86b4-41c7-8779-715f4a5cc7df",
+            "Value": {
+                "id": "4fe5a091-4d7b-433d-b00e-b87ff8beba47",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\idea 4.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ebf4e1b4-b166-4b64-a3d0-59fdf18452d2",
+            "Value": {
+                "id": "d492d161-e51b-4bc0-99d3-060bf201ad5b",
+                "resourcePath": "datafiles_yy\\Orginals\\round 2\\Crystal Mines demo 1.3.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ecf858aa-27d3-4fb2-a782-e23d5920e177",
+            "Value": {
+                "id": "18d2b5fe-05e7-4b54-adcd-f15a8d56cf78",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\korg idea demo.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "edd4be33-2dee-4ecb-9211-7f545439536e",
+            "Value": {
+                "id": "be59c750-ef1e-42e5-98cf-67e44136f04d",
+                "resourcePath": "datafiles_yy\\Orginals\\lost in a dream\\lost in a dream demo.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "ee29aa1a-3c6c-4b89-80d0-3dd27ce12b1e",
             "Value": {
                 "id": "9aa612dc-b718-48bb-8459-9b965f657d43",
@@ -359,11 +2727,51 @@
             }
         },
         {
+            "Key": "ee320b22-1dd7-4b15-b558-c740c50d3c7f",
+            "Value": {
+                "id": "94eacecb-f758-48d0-a425-dd0e61b9f698",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000144.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "eedd4147-9117-4035-989c-6d4a66ee5916",
+            "Value": {
+                "id": "bb84ba3f-ba3a-4009-9874-0dc83ca3fc3a",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\BASS.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "eff77393-b914-4e99-a8c1-1e8012e38eca",
             "Value": {
                 "id": "5cbdf757-af2f-4f70-a679-55da5d1df3f9",
-                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourcePath": "sprites\\spr_metric_tile\\spr_metric_tile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0162e85-1192-4924-be75-3abe2eb5f473",
+            "Value": {
+                "id": "16286f2f-b18c-4419-a1c8-b7214034d10a",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\Piano Fun Chop.flp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f031c4f8-49db-468d-bd29-c3830a092871",
+            "Value": {
+                "id": "d14caac7-1206-41f4-aea1-708560d45a34",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00009b9.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f078506e-0ded-4024-8473-95079869aac1",
+            "Value": {
+                "id": "0a939bea-5a27-4649-bf9e-0029cfcf369c",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\A - Part_1.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -375,11 +2783,35 @@
             }
         },
         {
+            "Key": "f267bc40-85c1-4726-b66f-a3de4bd6b217",
+            "Value": {
+                "id": "b03ed7a1-ace3-4712-932b-7111c4ef1a73",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e00009b6.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "a44823e0-de6c-4f82-af60-04f66e0b0a11",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4c7c587-aa22-455c-a48f-03d56797f643",
+            "Value": {
+                "id": "ed52d842-e4bf-4328-97a1-a20f348d2602",
+                "resourcePath": "views\\f4c7c587-aa22-455c-a48f-03d56797f643.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f520edb2-68c7-4777-9a22-02d2b35f5e69",
+            "Value": {
+                "id": "48ae173a-b2fd-425a-a5c2-cc21d02f221d",
+                "resourcePath": "datafiles_yy\\Orginals\\short lil jam\\introspect.flp.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -391,16 +2823,134 @@
             }
         },
         {
+            "Key": "f7bddb3a-b6f8-4a8b-9d90-5d92cd1ec5d2",
+            "Value": {
+                "id": "236a170e-3414-4fb0-b367-4f72a6921536",
+                "resourcePath": "sprites\\spr_winter_mountain\\spr_winter_mountain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f7dc7343-562d-44e9-8427-ab00b66ac37f",
+            "Value": {
+                "id": "b7eeadde-e016-4201-8e4b-1474024e849f",
+                "resourcePath": "shaders\\sh_rimlight\\sh_rimlight.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "f815a7ce-80bb-4505-9f42-2f45470b3272",
+            "Value": {
+                "id": "c0ad699f-8780-4f06-95f0-15920a77e9b5",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e00004c7.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "f87d22a6-914a-4d7f-ace3-fb68608a11dc",
             "Value": {
                 "id": "600f3641-b66d-43d5-a610-cfa31314b95f",
                 "resourcePath": "views\\f87d22a6-914a-4d7f-ace3-fb68608a11dc.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "f94ff873-a5d7-4f54-b1de-d5b67e11d670",
+            "Value": {
+                "id": "22d035f2-db20-4304-8eb3-bdc5ce65c566",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000061.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fa734cfb-6e8d-4fcc-b296-7764952103b4",
+            "Value": {
+                "id": "16be0e95-6332-49f4-abe3-24e03db52a4a",
+                "resourcePath": "datafiles_yy\\Orginals\\heart in open palms\\demo\\demo recordings_data\\e00\\d00\\e0000881.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fa9beb58-86cd-4130-b059-f9e5782678bd",
+            "Value": {
+                "id": "40b30446-ecc1-4ff4-9517-2c9e01f173e8",
+                "resourcePath": "objects\\light_block\\light_block.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fc08d1b9-cf56-423c-b63d-a43cfe89d88e",
+            "Value": {
+                "id": "d8c96576-e73e-4032-8239-fcf44ee2caae",
+                "resourcePath": "sprites\\spr_e_slash\\spr_e_slash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd122b2a-8ee1-444e-ad78-0990e9fb35da",
+            "Value": {
+                "id": "c304beda-68c5-4729-bc96-69640ced393a",
+                "resourcePath": "sprites\\spr_boxer1_fall\\spr_boxer1_fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fdc74f54-004c-4af2-bc7d-2122c8fd12f8",
+            "Value": {
+                "id": "2de80ea0-4b09-4914-9fe3-26fc4ba609e0",
+                "resourcePath": "scripts\\scr_shadow_draw\\scr_shadow_draw.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fdcfe9af-486e-448b-afca-1155e386dd11",
+            "Value": {
+                "id": "40bd50e0-4a33-42d5-a862-9c1094d02324",
+                "resourcePath": "sprites\\spr_e_jumpdust\\spr_e_jumpdust.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe3a3226-d55e-4a24-8618-e2e9250e48d9",
+            "Value": {
+                "id": "71a1b137-247f-4f19-8ad7-bfb8dce4705e",
+                "resourcePath": "datafiles_yy\\Orginals\\rifff chops\\Piano Fun Chop demo 1.1.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "feec7ef2-5c44-41fa-98de-66a8259441f6",
+            "Value": {
+                "id": "f02d6680-b3cc-4c0e-b7a7-f98c923ead27",
+                "resourcePath": "datafiles_yy\\Orginals\\dreams from a korg\\sample file_data\\e00\\d00\\e0000047.au.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ff3d8fb5-d959-4723-b8a3-a5330c6f386e",
+            "Value": {
+                "id": "da61ab46-7cc4-4959-80ac-e6ba9f09ed47",
+                "resourcePath": "datafiles_yy\\Orginals\\bar in a cave\\beat 80bpm.mp3.yy",
+                "resourceType": "GMIncludedFile"
+            }
         }
     ],
     "script_order": [
-        "5aed32cf-ed27-4414-ba65-6c13e75f106d"
+        "4c195516-f049-42c2-a542-d9d641a12338",
+        "34463028-6093-4909-861d-b1b0343c975a",
+        "5aed32cf-ed27-4414-ba65-6c13e75f106d",
+        "157661f4-dd34-45b0-bc84-7c5a93aac23e",
+        "7f77a7e8-9fd8-4b50-9220-44222d690e95",
+        "fdc74f54-004c-4af2-bc7d-2122c8fd12f8",
+        "66ce46b3-e43b-48c7-9976-786423798dd5",
+        "4227f399-a28d-4e89-9a86-c33859f997be",
+        "d08de027-a9f5-4601-9d55-f6a8c0066c79",
+        "46471ae5-e75c-4d7e-8ac7-9d9c9ddd2e1b",
+        "6341a99f-723b-47a8-a791-6f84bdb09721",
+        "b1ec3d8b-7edc-4171-9d69-986c4f1e882c",
+        "3fdaae01-48d3-4f39-a45a-36ba6b872202",
+        "9ef58270-046d-474f-84ca-515bd995b31b",
+        "b04db675-7773-4b49-b0f7-0b174f100ad9"
     ],
     "tutorial": ""
 }
